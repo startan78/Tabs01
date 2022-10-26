@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
             public void onTabChanged(String s) {
 
                 Object tabId;
-                Toast.makeText(getApplicationContext(),"se apreto la pestaña" + tabId.toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(),"se apreto la pestaña" + tabId.toast.lenght_short).show();
             }
         });
     }
